@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Smarak-0-9/SmaraksLeetcodeDashboard/tree/master/1657-determine-if-two-strings-are-close) |
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Smarak-0-9/SmaraksLeetcodeDashboard/tree/master/0994-rotting-oranges) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Smarak-0-9/SmaraksLeetcodeDashboard/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Smarak-0-9/SmaraksLeetcodeDashboard/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
